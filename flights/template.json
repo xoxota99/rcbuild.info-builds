@@ -1,0 +1,8 @@
+{
+  "hd": {"url": "", "arm_time": -1},
+  "flight": {"url": "", "arm_time": -1},
+  "blackbox": {"url": ""},
+  "other_quads": [
+    {"id": "", "flight": "", "arm_time": ""}
+  ]
+}
