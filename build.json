@@ -1,23 +1,23 @@
 {
-  "config": {
-    "frame": "Blackout/Mini-H-Quad",
-    "esc": "Flyduino/KISS-18A",
-    "motor": "T-Motor/MN2204-2300KV",
-    "fc": "AbuseMark/Acro-Naze32",
-    "prop": [
-      "Gemfan/5040-Props-(CF-Nylon)"
-    ],
-    "arm": "Blackout/Mini-H-Quad---Arm",
-    "battery": [
-      "Lumenier/1800mAh-4s-75c-Lipo"
-    ],
-    "osd": "",
-    "receiver": "FrSky/D4R-II",
-    "flightcam": "UnknownManufacturer/dronematters/PZ0420-IR-Sensitive-600TVL-Sony-Super-HAD-D-WDR-CCD-Camera-with-2.8mm-Lens",
-    "hqcam": "SpyTec/Mobius-Action-Cam",
-    "videotx": "ImmersionRC/5.8GHz-600mw",
-    "blackbox": "",
-    "voltagereg": "ReadyMadeRC/5V-12V-Dual-Step-Down-Regulator"
-  },
-  "version": 1
+ "config": {
+  "arm": "Blackout/Mini-H-Quad---Arm",
+  "battery": [
+   "Lumenier/1800mAh-4s-75c-Lipo"
+  ],
+  "blackbox": "",
+  "esc": "Flyduino/KISS-18A",
+  "fc": "AbuseMark/Acro-Naze32",
+  "flightcam": "UnknownManufacturer/dronematters/PZ0420-IR-Sensitive-600TVL-Sony-Super-HAD-D-WDR-CCD-Camera-with-2.8mm-Lens",
+  "frame": "Blackout/Mini-H-Quad",
+  "hqcam": "SpyTec/Mobius-Action-Cam",
+  "motor": "T-Motor/MN2204-2300kv",
+  "osd": "",
+  "prop": [
+   "Gemfan/5040-Props-(CF-Nylon)"
+  ],
+  "receiver": "FrSky/D4R-II",
+  "videotx": "ImmersionRC/5.8GHz-600mw",
+  "voltagereg": "ReadyMadeRC/5V-12V-Dual-Step-Down-Regulator"
+ },
+ "version": 1
 }
