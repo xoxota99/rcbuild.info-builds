@@ -1,18 +1,23 @@
-{"version": 1,
- "config": {
-    "frame" : "",
-    "arm" : "",
-    "fc" : "",
-    "osd" : "",
-    "receiver" : "",
-    "flightcam" : "",
-    "hqcam" : "",
-    "esc" : "",
-    "motor" : "",
-    "videotx" : "",
-    "blackbox" : "",
-    "voltagereg" : "",
-    "prop" : [],
-    "battery" : []
-  }
+{
+  "config": {
+    "frame": "ReadyMadeRC/ZMR-250",
+    "esc": "Flyduino/KISS-18A",
+    "motor": "Cobra/CM-2204-2300kv",
+    "fc": "AbuseMark/AfroMini-32",
+    "prop": [
+      "HQProp/6x4.5-CF-DD"
+    ],
+    "arm": "zmr",
+    "battery": [
+      "Tattu/4S-1300mAh-75C"
+    ],
+    "osd": "ReadyToFlyQuads/Micro-MinimOSD",
+    "receiver": "FrSky/X4RSB",
+    "flightcam": "DC5V~22V Plastic Case mini 600tvl Sony Super HAD CCD Super FPV Camera 2.8mm Lens",
+    "hqcam": "SpyTec/Mobius-Action-Cam",
+    "videotx": "Eachine 5.8G 600mW 32CH AV Wireless Transmitter for Gopro Mobius 808",
+    "blackbox": "SparkFun/OpenLog",
+    "voltagereg": "Pololu/D24V6F5"
+  },
+  "version": 1
 }
