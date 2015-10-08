@@ -1,0 +1,20 @@
+{
+  "media": {
+    "photos": [
+      {
+        "imgur": {
+          "extension": "",
+          "imageId": ""
+        }
+      }
+    ],
+    "videos": [
+      {
+        "youtube": {
+          "videoId": ""
+        }
+      }
+    ]
+  },
+  "version": 1
+}
