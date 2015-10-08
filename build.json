@@ -1,6 +1,6 @@
 {
   "config": {
-    "frame": "ReadyMadeRC/ZMR-250",
+    "frame": "http://www.multirotorsuperstore.com/zmr250-carbon-fiber-mini-quadcopter.html",
     "esc": "Flyduino/KISS-18A",
     "motor": "Cobra/CM-2204-2300kv",
     "fc": "AbuseMark/AfroMini-32",
